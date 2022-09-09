@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	char sChar = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-	int s = strlen(sChar);
+	char cC = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	int s = strlen(const char sC);
 
 	write(2,
 	      "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",
