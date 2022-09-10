@@ -6,6 +6,8 @@
 /* betty style doc for function main goes there */
 /**
  * main - main block
+ * Description: get a random number and print the number
+ * and if it is positive, negative, or zero
  * return: 0
  */
 int main(void)
