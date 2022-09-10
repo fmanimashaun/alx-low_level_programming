@@ -5,12 +5,12 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - main block
- *
- * @void: just a standard main function argument
- * Description: get a random number and print the number
+ * main - Entry point
+ * 
+ * Description:  Get a random number and print the number
  * and if it is positive, negative, or zero
- * return: 0
+ * 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
