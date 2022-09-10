@@ -7,7 +7,7 @@
 /**
  * main - main block
  *
- * @void: just a standard main function argument 
+ * @void: just a standard main function argument
  * Description: get a random number and print the number
  * and if it is positive, negative, or zero
  * return: 0
