@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - Print alphabet in lowercase 10x using only `_puutchar`
+ * print_alphabet_x10 - Print alphabet in lowercase 10x using only `_putchar`
  * Return: 0
  */
 
