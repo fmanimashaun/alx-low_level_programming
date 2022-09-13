@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include <main.h>
 /**
  * main - entry point
  * Return: Always 0 (success)
@@ -9,11 +8,11 @@ int main(void)
 	char c[] = "_putchar";
 	int i = 0;
 
-	while (i < 8)
+	while (c[i] != '\0')
 	{
-		putchar(c[i]);
+		_putchar(c[i]);
 		i++;
 	}
-	putchar('\n');
+	_putchar('\n');
 	return (0);
 }
